@@ -1,4 +1,4 @@
-# API-CadastroCliente
+# API-CadastroCliente :trollface:
 
 :pushpin: Esta aplicação tem como objetivo apresentar o estudo da integração da aplicação em python com banco de dados MySQL e disponibilizar em forma de API.
 
