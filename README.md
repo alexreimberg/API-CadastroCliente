@@ -1,4 +1,4 @@
-# API-CadastroCliente :trollface:
+# API-CadastroCliente 
 
 :pushpin: Esta aplicação tem como objetivo apresentar o estudo da integração da aplicação em python com banco de dados MySQL e disponibilizar em forma de API.
 
@@ -13,3 +13,5 @@
   :x: Criar aviso por e-mail para quando o Banco armazenar uma quantidade 'X' de clientes  
   :x: Criar função de análise via Pandas e disponibilizar via CSV ou Excel  
 :x: API Disponibilizada para uso  
+
+:octocat:
