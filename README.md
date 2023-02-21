@@ -9,6 +9,7 @@
 :heavy_check_mark: Conexão com Banco de Dados  
 :heavy_check_mark: Criação da Classe Cliente  
 :heavy_check_mark: Interação com o Bando de Dados (CRUD) 
+
 :heavy_check_mark: Definido a biblioteca para criação da API (FastAPI)  
 :x: Configuração da API e disponibilizar para uso  
 :x: Criar aviso por e-mail para quando o Banco armazenar uma quantidade 'X' de clientes  
